@@ -1,0 +1,32 @@
+{
+  "S&S_API": {
+    "Version": "V1.0.0",
+    "Api": {
+      "Compile": {
+        "ConsoleAPI": {
+          "functional": true
+        },
+        "StartAPI": {
+          "functional": true
+        },
+        "ItemAPI": {
+        "functional": true
+        },
+      }
+      "Proided": {
+        "FilesAPI": {
+          "functional": true
+        },
+        "GuiAPI": {
+          "functional": true
+        },
+        "DataBaseAPI": {
+          "functional": true
+        },
+        "ScoreboardAPI": {
+          "functional": false
+        }
+      }
+    }
+  }
+}
