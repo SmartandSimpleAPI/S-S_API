@@ -1,6 +1,6 @@
 {
   "S&S_API": {
-    "Version": "V1.0.0",
+    "Version": "V1.0.1",
     "Api": {
       "ConsoleAPI": {
         "functional": true
@@ -21,7 +21,7 @@
         "functional": true
       },
       "ScoreboardAPI": {
-        "functional": false
+        "functional": true
       }
     }
   }
