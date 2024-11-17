@@ -1,6 +1,6 @@
 {
   "S&S_API": {
-    "Version": "v1.0.1",
+    "Version": "v1.0.0",
     "Api": {
       "ConsoleAPI": {
         "functional": true
