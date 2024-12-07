@@ -11,6 +11,9 @@
       "ItemAPI": {
         "functional": true
       },
+      "MobAPI": {
+        "functional": true
+      },
       "FilesAPI": {
         "functional": true
       },
@@ -22,9 +25,6 @@
       },
       "ScoreboardAPI": {
         "functional": false
-      },
-      "MobAPI": {
-        "functional": true
       }
     }
   }
