@@ -24,7 +24,7 @@
         "functional": false
       },
       "MobAPI": {
-        "functional": false
+        "functional": true
       }
     }
   }
