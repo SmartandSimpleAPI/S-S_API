@@ -22,6 +22,9 @@
       },
       "ScoreboardAPI": {
         "functional": false
+      },
+      "MobAPI": {
+        "functional": false
       }
     }
   }
