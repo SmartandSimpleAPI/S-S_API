@@ -11,7 +11,7 @@
       "ItemAPI": {
         "functional": true
       },
-      "MobAPI": {
+      "MobsAPI": {
         "functional": true
       },
       "FilesAPI": {
